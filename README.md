@@ -9,3 +9,8 @@ Preview of how it looks:
 
 
 Unfortunately couldnt get the nitro badge.
+
+
+https://docs.vencord.dev/installing/custom-plugins/
+
+for help setting up custom plugins
