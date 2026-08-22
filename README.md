@@ -4,8 +4,10 @@ This will give you all the discord badges including rare badges. This is only cl
 Preview of how it looks:
 
 
+https://imgur.com/a/R4DxHKS
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/R4DxHKS" data-context="false" ><a href="//imgur.com/a/R4DxHKS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
 
 
 https://docs.vencord.dev/installing/custom-plugins/
