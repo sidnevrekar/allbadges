@@ -5,10 +5,7 @@ Preview of how it looks:
 
 
 
-<img width="287" height="52" alt="Screenshot 2026-04-13 at 9 36 08 PM" src="https://github.com/user-attachments/assets/8faa83d5-3a8a-4f8b-9b70-58db890a1995" />
-
-
-Unfortunately couldnt get the nitro badge.
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/R4DxHKS" data-context="false" ><a href="//imgur.com/a/R4DxHKS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 https://docs.vencord.dev/installing/custom-plugins/
